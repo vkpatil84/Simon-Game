@@ -12,7 +12,7 @@ function initializeGame() {
     userChosenColour = '';
     level = 0;
     gameStarted = false;
-    $('#level-title').text("Press 'A' Key to Start");
+    $('#level-title').text("Press 'Any' Key to Start");
 }
 
 function resetGame() {
